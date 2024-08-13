@@ -38,4 +38,4 @@ This project demonstrates the effectiveness of using XGBoost for credit risk ana
 - **Real-Time Analysis**: Implement the model in a real-time environment to continuously monitor and assess credit risk.
 
 ## Author
-- **Your Name** - [LinkedIn](https://www.linkedin.com/in/chaitanya-sannake-a73692226/)
+- **Chaitanya Sannake** - [LinkedIn](https://www.linkedin.com/in/chaitanya-sannake-a73692226/)
